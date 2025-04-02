@@ -1,4 +1,5 @@
 # Network Diagnostics Tool
+![Logo](https://github.com/sarthakpriyadarshi/Slowloris-Tool/blob/main/images/Slowloris-Tool.png?raw=true)
 
 ## Overview
 
